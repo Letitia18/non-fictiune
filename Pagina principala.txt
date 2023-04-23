@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Reading As A Lifestyle - Pagina principala</title>
+<link rel="shortcut icon" type="image/jpg" href="https://scontent.fsbz1-2.fna.fbcdn.net/v/t1.6435-9/188317272_838730223398982_3527433680468833310_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=kE6s82tO44AAX_iC64G&_nc_ht=scontent.fsbz1-2.fna&oh=00_AfCbcz8Rfby_QibY9AVKl3p7YjljwcuZkF_txNl2x-2lFw&oe=6464CE9F"/>
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body style="background-color:LightSteelBlue">
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
+<style>
+#citat {
+  background-color: Navy;
+  color: HoneyDew;
+  padding: 40px;
+  text-align: center;
+}
+.topnav {
+  overflow: hidden;
+  background-color: MidnightBlue;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 131px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: LightCyan;
+  color: black;
+}
+.topnav a.active {
+  background-color: Black;
+  color: white;
+}
+</style>
+<div class="topnav">
+  <a class="active" href="file:///C:/Users/Georgiana%20Letitia/Desktop/paginaprincipala.html">Pagina principala</a>
+  <a href="file:///C:/Users/Georgiana%20Letitia/Desktop/non-fictiune.html">Carti de non-fictiune</a>
+  <a href="file:///C:/Users/Georgiana%20Letitia/Desktop/fictiune.html">Carti de fictiune</a>
+</div>
+
+<h2 id="citat">"I have lived a thousand lives and I have loved a thousand loves. I've walked on distant worlds and seen the end of time. Because I read." -George R.R.Martin</h2>
+<p>
+Cartile nu mi-au fost prietene dintotdeauna, asta pentru ca in copilarie nu am gasit nicio lectura care sa ma atraga foarte mult, si, in plus, cititul parea o activitate plictisitoare si lipsita de farmec pentru mine. Prin anul 2018, am citit o carte scrisa de Chris Simion, <em>"Imperativele adolescentei"</em>, care la vremea aceea mi-a placut foarte mult si care mi-a pornit "apetitul" pentru literatura. Usor, usor, am inceput sa imi cumpar carti care pareau sa abordeze subiecte pe gustul meu: <em>"Ultima oara cand ne luam ramas-bun"</em>-Cynthia Hand, <em>"7 zile"</em>-Eve Ainsworth, <em>"Lungul drum al Aumei"</em>-Eucabeth Odhiambo, etc. Am inceput sa imi dau seama ce genuri de carti imi plac: thriller-ele psihologice, romanele politiste, romanele istorice, romanele clasice din literatura universala, povestile triste sau dramatice, cartile de fictiune si, recent, si cele de non-fictiune. Cred ca eu sunt cel mai bun exemplu care afirma ceea ce a spus J.K.Rowling: <strong>"Daca nu iti place sa citesti, inseamna ca inca nu ai gasit cartea potrivita."</strong> </p>
+<p>
+Astfel, lectura mi-a devenit un stil de viata; imi place nu doar sa citesc cartile, ci si sa le colectionez. Pentru mine reprezinta lucruri materiale care imi bucura sufletul si care ma ajuta "sa evadez" din viata de zi cu zi. Imi place sa imi ocup timpul liber cu continut de calitate, asa ca sunt foarte pasionata de ele, de eventualele lor ecranizari si nu numai. Tot ce poate sa imi ofere inspiratie, informatii noi sau sa imi puna imaginatia "la treaba" reprezinta un motiv de interes pentru mine. Obiectivul meu este sa citesc, in medie, o carte pe saptamana. Uneori reusesc, alteori nu, insa cu siguranta va ramane un obicei la care nu voi renunta niciodata. 
+</p>
+<p>
+Consider ca orice carte este utila intr-un fel sau altul, dar, mie personal, timpul nu imi ofera posibilitatea sa citesc sau sa vizionez orice, asadar, mereu am o lista din care extrag ceea ce ma intereseaza cel mai mult.
+</p>
+<p>
+M-am rezumat la 30 de recomandari de carti cu toate ca ar fi mult mai multe pe care le-as recomanda si despre care as vorbi. Cele despre care am scris sunt printre cele mai dragi si mai utile pe care le-am citit eu. De asemenea, ma las si eu inspirata de persoane precum <a href="https://www.youtube.com/@Andreea.Balaban">Delia-Citibila,</a>
+<a href="https://www.citibila.com/">Andreea Balaban</a>, <a href="https://www.youtube.com/@AscultSiCitesc">Loredana-Ascult si Citesc</a>, <a href="https://www.youtube.com/@GeorgianaDumitra">Georgiana Dumitra</a> sau alte persoane pe care le apreciez din mediul online. O aplicatie care mi s-a parut foarte utila si care m-a motivat sa imi organizez intr-un anumit fel lecturile se numeste <a href="https://www.goodreads.com/user/show/132321985-georgiana-leti-ia-bocancea"><button onclick="doSomething()" style="background-color:BlanchedAlmond;color:black;border-radius:5px"><i class='fab fa-goodreads-g'></i> Goodreads</button>
+</a>; atasez aici link-ul catre contul meu. Sper ca macar una dintre cartile prezentate vor capta atentia cuiva! </p>
+Asadar, voi vorbi despre carti impartindu-le in doua categorii:<p></p>
+<a href="https://www.goodreads.com/user/show/132321985-georgiana-leti-ia-bocancea">
+            <button onclick="doSomething()" style="background-color:#AED6F1;color:black;border-radius:5px"><i class='fas fa-thumbtack'></i> Carti de fictiune</button>
+</a><br>
+<a href="https://www.goodreads.com/user/show/132321985-georgiana-leti-ia-bocancea"><button onclick="doSomething()" style="background-color:#AED6F1;color:black;border-radius:5px"><i class='fas fa-thumbtack'></i> Carti de non-fictiune</button>
+</a>
+        <p id="test"></p>
+
+        <script>
+            function doSomething(){
+                document.getElementById("test").innerHTML = " ";
+            }
+        </script>
+
+</body>
+</html>
+
+
